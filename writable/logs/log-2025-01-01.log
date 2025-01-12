@@ -1,0 +1,618 @@
+CRITICAL - 2025-01-01 12:13:38 --> ErrorException: Undefined array key "siparis_detay_id"
+[Method: GET, Route: siparisgir/db]
+in APPPATH\Views\dbdeneme.php on line 34.
+ 1 APPPATH\Views\dbdeneme.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "siparis_detay_id"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\dbdeneme.php', 34)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\dbdeneme.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dbdeneme', [], true)
+ 5 APPPATH\Controllers\SiparisGirController.php(64): view('dbdeneme', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\SiparisGirController->dbgoster()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SiparisGirController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 12:25:30 --> ErrorException: Undefined array key "aciklama"
+[Method: GET, Route: anasayfa]
+in APPPATH\Views\homepage.php on line 65.
+ 1 APPPATH\Views\homepage.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "aciklama"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 65)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(24): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 12:25:46 --> ErrorException: Undefined array key "aciklama"
+[Method: GET, Route: anasayfa]
+in APPPATH\Views\homepage.php on line 65.
+ 1 APPPATH\Views\homepage.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "aciklama"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 65)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(24): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 12:25:47 --> ErrorException: Undefined array key "aciklama"
+[Method: GET, Route: anasayfa]
+in APPPATH\Views\homepage.php on line 65.
+ 1 APPPATH\Views\homepage.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "aciklama"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 65)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(24): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 12:25:48 --> ErrorException: Undefined array key "aciklama"
+[Method: GET, Route: anasayfa]
+in APPPATH\Views\homepage.php on line 65.
+ 1 APPPATH\Views\homepage.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "aciklama"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 65)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(24): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 12:25:48 --> ErrorException: Undefined array key "aciklama"
+[Method: GET, Route: anasayfa]
+in APPPATH\Views\homepage.php on line 65.
+ 1 APPPATH\Views\homepage.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "aciklama"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 65)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(24): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:25:25 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:25:44 --> ErrorException: Array to string conversion
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 22.
+ 1 APPPATH\Controllers\HomePageController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:25:44 --> ErrorException: Array to string conversion
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 22.
+ 1 APPPATH\Controllers\HomePageController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:25:45 --> ErrorException: Array to string conversion
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 22.
+ 1 APPPATH\Controllers\HomePageController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:25:45 --> ErrorException: Array to string conversion
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 22.
+ 1 APPPATH\Controllers\HomePageController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:25:48 --> ErrorException: Array to string conversion
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 22.
+ 1 APPPATH\Controllers\HomePageController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:28 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:28 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:29 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:29 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:29 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:29 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:30 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:30 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:26:30 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:27:22 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:07 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:07 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:08 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:08 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:08 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:08 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:08 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:48 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\HomePageController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\HomePageController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\HomePageController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:48 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\HomePageController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\HomePageController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\HomePageController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:48 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\HomePageController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\HomePageController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\HomePageController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:28:57 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:24 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:27 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:28 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:28 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:28 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:34 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:34 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:34 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:35 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:29:35 --> TypeError: App\Controllers\HomePageController::index(): Return value must be of type string, none returned
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:32:59 --> ErrorException: Undefined array key "amount"
+[Method: GET, Route: anasayfa]
+in APPPATH\Views\homepage.php on line 60.
+ 1 APPPATH\Views\homepage.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "amount"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 60)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(50): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:41:56 --> ErrorException: Undefined array key "company_id"
+[Method: GET, Route: anasayfa/dene]
+in APPPATH\Views\homepage.php on line 44.
+ 1 APPPATH\Views\homepage.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "company_id"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 44)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(69): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->denemem()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 13:54:44 --> ErrorException: Undefined array key "siparis"
+[Method: GET, Route: anasayfa]
+in APPPATH\Views\homepage.php on line 44.
+ 1 APPPATH\Views\homepage.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "siparis"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 44)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(25): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:55:36 --> Error: Class "App\Models\FirmaModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:55:40 --> Error: Class "App\Models\FirmaModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:10 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:10 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:11 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:11 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:11 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:11 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:11 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:11 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:12 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:46 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:47 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:47 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:56:47 --> Error: Class "App\Models\FirmalarModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-01 14:57:11 --> ErrorException: Undefined array key "firma_ad"
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 32.
+ 1 APPPATH\Controllers\HomePageController.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "firma_ad"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 32)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

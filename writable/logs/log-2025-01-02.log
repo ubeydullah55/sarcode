@@ -1,0 +1,111 @@
+CRITICAL - 2025-01-02 05:38:13 --> Error: Class "App\Controllers\UsersModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:38:14 --> Error: Class "App\Controllers\UsersModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:44:58 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 48.
+ 1 APPPATH\Controllers\HomePageController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:46:13 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 48.
+ 1 APPPATH\Controllers\HomePageController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:46:14 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 48.
+ 1 APPPATH\Controllers\HomePageController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:46:14 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 48.
+ 1 APPPATH\Controllers\HomePageController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:46:14 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 48.
+ 1 APPPATH\Controllers\HomePageController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:46:14 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 48.
+ 1 APPPATH\Controllers\HomePageController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:46:14 --> ErrorException: Undefined array key "username"
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 48.
+ 1 APPPATH\Controllers\HomePageController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Controllers\\HomePageController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 05:47:07 --> ErrorException: Undefined array key "fullname"
+[Method: GET, Route: anasayfa]
+in APPPATH\Views\homepage.php on line 44.
+ 1 APPPATH\Views\homepage.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fullname"', 'C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php', 44)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sarsiparis\\app\\Views\\homepage.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('homepage', [], true)
+ 5 APPPATH\Controllers\HomePageController.php(68): view('homepage', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-02 14:07:24 --> Error: Class "App\Controllers\UrunModel" not found
+[Method: GET, Route: anasayfa]
+in APPPATH\Controllers\HomePageController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomePageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomePageController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
