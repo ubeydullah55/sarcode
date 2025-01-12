@@ -23,7 +23,7 @@
                                     <div class="col-md-4">
                                         <div class="position-relative text-center">
                                             <a class="d-block">
-                                                <img src="products/1.jpg" alt="img-blur-shadow" class="img-fluid shadow border-radius-md">
+                                            <img src="products/<?= $siparis['bilezik_id'] ?>.jpg" alt="img-blur-shadow" class="img-fluid shadow border-radius-md">
                                             </a>
                                         </div>
                                     </div>
